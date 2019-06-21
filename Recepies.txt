@@ -3,4 +3,9 @@ Welcome to recepies
 Kheer
 Pasta
 Chicken fry
+
+Pizza
+Fish
+Mutton
+
 Egg
